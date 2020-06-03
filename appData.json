@@ -1,4 +1,5 @@
-[{
+{ rawData:
+	[{
 		"name": "Bolo Indya",
 		"package": "com.boloindya.boloindya",
 		"similarAppGroup": [{
@@ -358,3 +359,4 @@
 		}]
 	}
 ]
+}
