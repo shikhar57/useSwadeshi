@@ -1,362 +1,471 @@
-{ "rawData":
-	[{
-		"name": "Bolo Indya",
-		"package": "com.boloindya.boloindya",
-		"similarAppGroup": [{
-				"app": "TikTok",
-				"package": "com.zhiliaoapp.musically",
-				"exists": false
-			},
-			{
-				"app": "Likee",
-				"package": "video.like",
-				"exists": false
-			},
-			{
-				"app": "Helo",
-				"package": "app.buzz.share",
-				"exists": false
-			},
-			{
-				"app": "Helo Lite",
-				"package": "app.buzz.share.lite",
-				"exists": false
-			},
-			{
-				"app": "Likee Lite",
-				"package": "video.like.lite",
-				"exists": false
-			}
-		]
-	},
-	{
-		"name": "JioBrowser",
-		"package": "com.jio.web",
-		"similarAppGroup": [{
-			"app": "UC Browser",
-			"package": "com.UCMobile.intl",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Chhota Bheem Surfer",
-		"package": "com.junesoftware.nazara.cbrush",
-		"similarAppGroup": [{
-			"app": "Clash of Kings",
-			"package": "com.hcg.cok.gp",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Tik Kik",
-		"package": "com.test.tikkik",
-		"similarAppGroup": [{
-				"app": "Vigo Video",
-				"package": "com.ss.android.ugc.boom",
-				"exists": false
-			},
-			{
-				"app": "TikTok Lite",
-				"package": "com.zhiliaoapp.musically.go",
-				"exists": false
-			},
-			{
-				"app": "KWAI",
-				"package": "com.kwai.video",
-				"exists": false
-			}
-		]
-	},
-	{
-		"name": "Video Editor Free",
-		"package": "com.appzcloud.videoeditor",
-		"similarAppGroup": [{
-			"app": "Viva Video",
-			"package": "com.quvideo.xiaoying",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Real Cricket",
-		"package": "com.nautilus.RealCricket3D",
-		"similarAppGroup": [{
-				"app": "Castle Clash",
-				"package": "com.igg.castleclash",
-				"exists": false
-			},
-			{
-				"app": "Legacy of discord",
-				"package": "com.gtarcade.lod",
-				"exists": false
-			}
-		]
-	},
-	{
-		"name": "English Hindi Dictionary - HinKhoj",
-		"package": "HinKhoj.Dictionary",
-		"similarAppGroup": [{
-			"app": "UDictionary",
-			"package": "com.youdao.hindict",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Doc Scanner",
-		"package": "net.doc.scanner",
-		"similarAppGroup": [{
-			"app": "CamScanner",
-			"package": "com.intsig.camscanner",
-			"exists": false
-		}]
-	},
-	{
-		"name": "JioSwitch",
-		"package": "com.reliance.jio.jioswitch",
-		"similarAppGroup": [{
-				"app": "SHAREit",
-				"package": "com.lenovo.anyshare.gps",
-				"exists": false
-			},
-			{
-				"app": "Xender",
-				"package": "cn.xender",
-				"exists": false
-			}
-		]
-	},
-	{
-		"name": "Missing",
-		"package": "com.MissingLinkTrust.Missing",
-		"similarAppGroup": [{
-				"app": "Game of Sultans",
-				"package": "com.dc.hwsj",
-				"exists": false
-			},
-			{
-				"app": "Lords Mobile",
-				"package": "com.igg.android.lordsmobile",
-				"exists": false
-			},
-			{
-				"app": "PUBG Mobile",
-				"package": "com.tencent.ig",
-				"exists": false
-			}
-		]
-	},
-	{
-		"name": "Indian Messenger",
-		"package": "com.loopytime.im",
-		"similarAppGroup": [{
-				"app": "LivU",
-				"package": "com.videochat.livu",
-				"exists": false
-			},
-			{
-				"app": "NonoLive",
-				"package": "com.nono.android",
-				"exists": false
-			},
-			{
-				"app": "Hello Yo",
-				"package": "sg.bigo.hellotalk",
-				"exists": false
-			},
-			{
-				"app": "UpLive",
-				"package": "com.asiainno.uplive",
-				"exists": false
-			}
-		]
-	},
-	{
-		"name": "TrulyMadly",
-		"package": "com.trulymadly.android.app",
-		"similarAppGroup": [{
-			"app": "Dating.com",
-			"package": "com.dating.android",
-			"exists": false
-		}]
-	},
-	{
-		"name": "50000 Free eBooks",
-		"package": "com.oodles.download.free.ebooks.reader",
-		"similarAppGroup": [{
-				"app": "Web novel",
-				"package": "com.qidian.Int.reader",
-				"exists": false
-			},
-			{
-				"app": "WPS Office",
-				"package": "cn.wps.moffice_eng",
-				"exists": false
-			}
-		]
-	},
-	{
-		"name": "LightX Photo Editor & Photo Effects",
-		"package": "com.lightx",
-		"similarAppGroup": [{
-			"app": "Cut Cut",
-			"package": "com.xprodev.cutcam",
-			"exists": false
-		}]
-	},
-	{
-		"name": "SAY NAMASTE",
-		"package": "com.inscripts.namaste",
-		"similarAppGroup": [{
-			"app": "Bigo Live",
-			"package": "sg.bigo.live",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Baahubali",
-		"package": "com.bahubali.game",
-		"similarAppGroup": [{
-				"app": "Rise of Kingdoms",
-				"package": "com.lilithgame.roc.gp",
-				"exists": false
-			},
-			{
-				"app": "Last Empire",
-				"package": "com.longtech.lastwars.gp",
-				"exists": false
-			},
-			{
-				"app": "Art of Conquest",
-				"package": "com.lilithgame.sgame.gp.oss",
-				"exists": false
-			},
-			{
-				"app": "King of Avalon",
-				"package": "com.funplus.kingofavalon",
-				"exists": false
-			},
-			{
-				"app": "Guns of Glory",
-				"package": "com.diandian.gog",
-				"exists": false
-			}
-		]
-	},
-	{
-		"name": "VMate Status 2020",
-		"package": "com.uc.vmlite",
-		"similarAppGroup": [{
-			"app": "Vigo Lite",
-			"package": "com.ss.android.ugc.boomlite",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Lipikaar",
-		"package": "com.lipikaar.android.keyboard.hindi",
-		"similarAppGroup": [{
-			"app": "Flash keyboard",
-			"package": "com.flashkeyboardtheme",
-			"exists": false
-		}]
-	},
-	{
-		"name": "AppLock - Indian",
-		"package": "incredible.apps.applock",
-		"similarAppGroup": [{
-			"app": "AppLock",
-			"package": "com.domobile.applockwatcher",
-			"exists": false
-		}]
-	},
-	{
-		"name": "ShareChat",
-		"package": "in.mohalla.sharechat",
-		"similarAppGroup": [{
-			"app": "Zak Zak Pro",
-			"package": "om.live.videochat.india",
-			"exists": false
-		}]
-	},
-	{
-		"name": "India Fast VPN",
-		"package": "free.vpn.unblock.indiaglobalVpn",
-		"similarAppGroup": [{
-			"app": "Turbo VPN",
-			"package": "free.vpn.unblock.proxy.turbovpn",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Indian Selfie Camera",
-		"package": "com.appbreakers.selfiecamera",
-		"similarAppGroup": [{
-			"app": "BeautyPlus",
-			"package": "com.commsource.beautyplus",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Myntra",
-		"package": "com.myntra.android",
-		"similarAppGroup": [{
-			"app": "Club Factory",
-			"package": "club.fromfactory",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Dhoom:3",
-		"package": "com.ninetyninegames.dhoomthree",
-		"similarAppGroup": [{
-			"app": "Mobile Legends",
-			"package": "com.mobile.legends",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Ludo King",
-		"package": "com.ludo.king",
-		"similarAppGroup": [{
-			"app": "Ludo All Star",
-			"package": "com.yoozoogames.ludogameallstar",
-			"exists": false
-		}]
-	},
-	{
-		"name": "AJIO",
-		"package": "com.ril.ajio",
-		"similarAppGroup": [{
-			"app": "Romwe",
-			"package": "com.romwe",
-			"exists": false
-		}]
-	},
-	{
-		"name": "LimeRoad",
-		"package": "com.shopping.limeroad",
-		"similarAppGroup": [{
-			"app": "Shein",
-			"package": "com.zzkko",
-			"exists": false
-		}]
-	},
-	{
-		"name": "Tata CLiQ",
-		"package": "com.tul.tatacliq",
-		"similarAppGroup": [{
-			"app": "AliExpress",
-			"package": "com.alibaba.aliexpresshd",
-			"exists": false
-		}]
-	},
-	{
-		"name": "IndiaMART",
-		"package": "com.indiamart.m",
-		"similarAppGroup": [{
-			"app": "Alibaba.com",
-			"package": "com.alibaba.intl.android.apps.poseidon",
-			"exists": false
-		}]
-	}
-]
+{
+  "rawData": [
+    {
+      "name": "Bolo Indya",
+      "group" : "Social",
+      "desc" : "Apps for video chat, dating, short video viewing, chat rooms etc.",
+      "package": "com.boloindya.boloindya",
+      "similarAppGroup": [
+        {
+          "app": "TikTok",
+          "package": "com.zhiliaoapp.musically",
+          "exists": false
+        },
+        {
+          "app": "Likee",
+          "package": "video.like",
+          "exists": false
+        },
+        {
+          "app": "Helo",
+          "package": "app.buzz.share",
+          "exists": false
+        },
+        {
+          "app": "Helo Lite",
+          "package": "app.buzz.share.lite",
+          "exists": false
+        },
+        {
+          "app": "Likee Lite",
+          "package": "video.like.lite",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "JioBrowser",
+      "package": "com.jio.web",
+      "group" : "Utility",
+      "desc" : "Apps for Browsers, Scanners, VPNs, File sharing etc. ",
+      "similarAppGroup": [
+        {
+          "app": "UC Browser",
+          "package": "com.UCMobile.intl",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Chhota Bheem Surfer",
+      "package": "com.junesoftware.nazara.cbrush",
+      "group" : "Games",
+      "desc" : "Apps for Gaming ",
+      "similarAppGroup": [
+        {
+          "app": "Clash of Kings",
+          "package": "com.hcg.cok.gp",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Tik Kik",
+      "package": "com.test.tikkik",
+      "group" : "Social",
+      "desc" : "Apps for video chat, dating, short video viewing, chat rooms etc.",
+      "similarAppGroup": [
+        {
+          "app": "Vigo Video",
+          "package": "com.ss.android.ugc.boom",
+          "exists": false
+        },
+        {
+          "app": "TikTok Lite",
+          "package": "com.zhiliaoapp.musically.go",
+          "exists": false
+        },
+        {
+          "app": "KWAI",
+          "package": "com.kwai.video",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Video Editor Free",
+      "package": "com.appzcloud.videoeditor",
+      "group" : "Editing",
+      "desc" : "Apps for video and photo editing",
+      "similarAppGroup": [
+        {
+          "app": "Viva Video",
+          "package": "com.quvideo.xiaoying",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Real Cricket",
+      "package": "com.nautilus.RealCricket3D",
+      "group" : "Games",
+      "desc" : "Apps for Gaming ",
+      "similarAppGroup": [
+        {
+          "app": "Castle Clash",
+          "package": "com.igg.castleclash",
+          "exists": false
+        },
+        {
+          "app": "Legacy of discord",
+          "package": "com.gtarcade.lod",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "English Hindi Dictionary - HinKhoj",
+      "package": "HinKhoj.Dictionary",
+      "group" : "Education",
+      "desc" : "Apps for Education, ebooks, Dictionary etc.",
+      "similarAppGroup": [
+        {
+          "app": "UDictionary",
+          "package": "com.youdao.hindict",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Doc Scanner",
+      "package": "net.doc.scanner",
+      "group" : "Utility",
+      "desc" : "Apps for Browsers, Scanners, VPNs, File sharing etc. ",
+      "similarAppGroup": [
+        {
+          "app": "CamScanner",
+          "package": "com.intsig.camscanner",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "JioSwitch",
+      "package": "com.reliance.jio.jioswitch",
+      "group" : "Utility",
+      "desc" : "Apps for Browsers, Scanners, VPNs, File sharing etc. ",
+      "similarAppGroup": [
+        {
+          "app": "SHAREit",
+          "package": "com.lenovo.anyshare.gps",
+          "exists": false
+        },
+        {
+          "app": "Xender",
+          "package": "cn.xender",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Missing",
+      "package": "com.MissingLinkTrust.Missing",
+      "group" : "Games",
+      "desc" : "Apps for Gaming ",
+      "similarAppGroup": [
+        {
+          "app": "Game of Sultans",
+          "package": "com.dc.hwsj",
+          "exists": false
+        },
+        {
+          "app": "Lords Mobile",
+          "package": "com.igg.android.lordsmobile",
+          "exists": false
+        },
+        {
+          "app": "PUBG Mobile",
+          "package": "com.tencent.ig",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Indian Messenger",
+      "package": "com.loopytime.im",
+      "group" : "Social",
+      "desc" : "Apps for video chat, dating, short video viewing, chat rooms etc.",
+      "similarAppGroup": [
+        {
+          "app": "LivU",
+          "package": "com.videochat.livu",
+          "exists": false
+        },
+        {
+          "app": "NonoLive",
+          "package": "com.nono.android",
+          "exists": false
+        },
+        {
+          "app": "Hello Yo",
+          "package": "sg.bigo.hellotalk",
+          "exists": false
+        },
+        {
+          "app": "UpLive",
+          "package": "com.asiainno.uplive",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "TrulyMadly",
+      "package": "com.trulymadly.android.app",
+      "group" : "Social",
+      "desc" : "Apps for video chat, dating, short video viewing, chat rooms etc.",
+      "similarAppGroup": [
+        {
+          "app": "Dating.com",
+          "package": "com.dating.android",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "50000 Free eBooks",
+      "package": "com.oodles.download.free.ebooks.reader",
+      "group" : "Education",
+      "desc" : "Apps for Education, ebooks, Dictionary etc.",
+      "similarAppGroup": [
+        {
+          "app": "Web novel",
+          "package": "com.qidian.Int.reader",
+          "exists": false
+        },
+        {
+          "app": "WPS Office",
+          "package": "cn.wps.moffice_eng",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "LightX Photo Editor & Photo Effects",
+      "package": "com.lightx",
+      "group" : "Editing",
+      "desc" : "Apps for video and photo editing",
+      "similarAppGroup": [
+        {
+          "app": "Cut Cut",
+          "package": "com.xprodev.cutcam",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "SAY NAMASTE",
+      "package": "com.inscripts.namaste",
+      "group" : "Social",
+      "desc" : "Apps for video chat, dating, short video viewing, chat rooms etc.",
+      "similarAppGroup": [
+        {
+          "app": "Bigo Live",
+          "package": "sg.bigo.live",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Baahubali",
+      "package": "com.bahubali.game",
+      "group" : "Games",
+      "desc" : "Apps for Gaming ",
+      "similarAppGroup": [
+        {
+          "app": "Rise of Kingdoms",
+          "package": "com.lilithgame.roc.gp",
+          "exists": false
+        },
+        {
+          "app": "Last Empire",
+          "package": "com.longtech.lastwars.gp",
+          "exists": false
+        },
+        {
+          "app": "Art of Conquest",
+          "package": "com.lilithgame.sgame.gp.oss",
+          "exists": false
+        },
+        {
+          "app": "King of Avalon",
+          "package": "com.funplus.kingofavalon",
+          "exists": false
+        },
+        {
+          "app": "Guns of Glory",
+          "package": "com.diandian.gog",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "VMate Status 2020",
+      "package": "com.uc.vmlite",
+      "group" : "Social",
+      "desc" : "Apps for video chat, dating, short video viewing, chat rooms etc.",
+      "similarAppGroup": [
+        {
+          "app": "Vigo Lite",
+          "package": "com.ss.android.ugc.boomlite",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Lipikaar",
+      "package": "com.lipikaar.android.keyboard.hindi",
+      "group" : "Utility",
+      "desc" : "Apps for Browsers, Scanners, VPNs, File sharing etc. ",
+      "similarAppGroup": [
+        {
+          "app": "Flash keyboard",
+          "package": "com.flashkeyboardtheme",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "AppLock - Indian",
+      "package": "incredible.apps.applock",
+      "group" : "Utility",
+      "desc" : "Apps for Browsers, Scanners, VPNs, File sharing etc. ",
+      "similarAppGroup": [
+        {
+          "app": "AppLock",
+          "package": "com.domobile.applockwatcher",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "ShareChat",
+      "package": "in.mohalla.sharechat",
+      "group" : "Social",
+      "desc" : "Apps for video chat, dating, short video viewing, chat rooms etc.",
+      "similarAppGroup": [
+        {
+          "app": "Zak Zak Pro",
+          "package": "om.live.videochat.india",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "India Fast VPN",
+      "package": "free.vpn.unblock.indiaglobalVpn",
+      "group" : "Utility",
+      "desc" : "Apps for Browsers, Scanners, VPNs, File sharing etc. ",
+      "similarAppGroup": [
+        {
+          "app": "Turbo VPN",
+          "package": "free.vpn.unblock.proxy.turbovpn",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Indian Selfie Camera",
+      "package": "com.appbreakers.selfiecamera",
+      "group" : "Editing",
+      "desc" : "Apps for video and photo editing",
+      "similarAppGroup": [
+        {
+          "app": "BeautyPlus",
+          "package": "com.commsource.beautyplus",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Myntra",
+      "package": "com.myntra.android",
+      "group" : "Shopping",
+      "desc" : "Apps for online shopping and retail",
+      "similarAppGroup": [
+        {
+          "app": "Club Factory",
+          "package": "club.fromfactory",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Dhoom:3",
+      "package": "com.ninetyninegames.dhoomthree",
+      "group" : "Games",
+      "desc" : "Apps for Gaming ",
+      "similarAppGroup": [
+        {
+          "app": "Mobile Legends",
+          "package": "com.mobile.legends",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Ludo King",
+      "package": "com.ludo.king",
+      "group" : "Games",
+      "desc" : "Apps for Gaming ",
+      "similarAppGroup": [
+        {
+          "app": "Ludo All Star",
+          "package": "com.yoozoogames.ludogameallstar",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "AJIO",
+      "package": "com.ril.ajio",
+      "group" : "Shopping",
+      "desc" : "Apps for online shopping and retail",
+      "similarAppGroup": [
+        {
+          "app": "Romwe",
+          "package": "com.romwe",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "LimeRoad",
+      "package": "com.shopping.limeroad",
+      "group" : "Shopping",
+      "desc" : "Apps for online shopping and retail",
+      "similarAppGroup": [
+        {
+          "app": "Shein",
+          "package": "com.zzkko",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "Tata CLiQ",
+      "package": "com.tul.tatacliq",
+      "group" : "Shopping",
+      "desc" : "Apps for online shopping and retail",
+      "similarAppGroup": [
+        {
+          "app": "AliExpress",
+          "package": "com.alibaba.aliexpresshd",
+          "exists": false
+        }
+      ]
+    },
+    {
+      "name": "IndiaMART",
+      "package": "com.indiamart.m",
+      "group" : "Shopping",
+      "desc" : "Apps for online shopping and retail",
+      "similarAppGroup": [
+        {
+          "app": "Alibaba.com",
+          "package": "com.alibaba.intl.android.apps.poseidon",
+          "exists": false
+        }
+      ]
+    }
+  ]
 }
