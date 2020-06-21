@@ -101,8 +101,8 @@
 		}]
 	},
 	{
-		"name": "Pocket Scanner",
-		"package": "com.craox.pocketscanner",
+		"name": "Doc Scanner",
+		"package": "net.doc.scanner",
 		"similarAppGroup": [{
 			"app": "CamScanner",
 			"package": "com.intsig.camscanner",
@@ -341,8 +341,8 @@
 		}]
 	},
 	{
-		"name": "Flipkart",
-		"package": "com.flipkart.android",
+		"name": "Tata CLiQ",
+		"package": "com.tul.tatacliq",
 		"similarAppGroup": [{
 			"app": "AliExpress",
 			"package": "com.alibaba.aliexpresshd",
