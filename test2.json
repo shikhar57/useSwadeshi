@@ -1,0 +1,124 @@
+{
+  "rawData": [
+    {
+      "group" : "Soap",
+      "swadeshi": ["Himalaya", "Mysoor Sandal", "Cinthol", "Santoor", "Medimix", "Neem", "Godrej", "Patanjali(Kesh Kanti)", "Wipro", "Park Avenue", "Swatik", "Ayur Herbal", "Kesh Nikhar", "Hair & Care", "Dabur Vatika", "Bajaj", "Nyle"],
+      "others": ["Palmolive", "HUL", "Ponds", "Old Spice", "Shower to Shower", "Head & Shoulders", "Johnson Baby", "Vivel ", "Proctar & Gamble"]
+    },
+    {
+      "group" : "Toothpaste",
+      "swadeshi": ["Neem", "babool", "vicco", "dabur", "Vico Bajradanti", "MDH", "Baidyanath", "Gurukul Pharmacy", "Choice", "Anchor", "Meswak", "Babool", "Promise", "Patanjali"],
+      "others": ["Closeup", "Pepsodent", "Cibaca", "Colgate", "Aquafresh", "Amway", "Quantum", "Oral-B", "Forhans"]
+    },
+    {
+      "group" : "Toothbrush",
+      "swadeshi": ["Ajay", "Promise", "Ajanta", "Royal", "Classic", "Dr. Strock", "Monate"],
+      "others": ["Colgate", "Closeup", "Pepsodent", "Oral-B", "Aquafresh", "Cibaca"]
+    },
+    {
+      "group" : "Tea & Coffee",
+      "swadeshi": ["Divya Peya(Patanjali)", "Tata", "Brahmaputra", "Aasam", "Girnaar", "Indian Cafe", "M.R.", "AVT Tea", "Narasus Coffee", "Leo Coffee"],
+      "others": ["Godfrey Philips", "Polsan", "Goodrick", "Sunrise", "Nestle", "Nescafe", "Tiger", "Green Label", "Yellow Label", "Cheers", "Lipton", "Red Label", "Taj Mahal", "BrookBond"]
+    },
+    {
+      "group" : "Blade",
+      "swadeshi": ["Topaz", "Gallant", "Supermax", "Laser", "Esquire", "Silver Prince", "Premium"],
+      "others": ["Gillete", "70clock", "Wilman", "Wiltage"]
+    },
+    {
+      "group" : "Shaving Cream",
+      "swadeshi": ["Park Avenue", "Premium", "Emami", "Balsara", "Godrej", "Nivea"],
+      "others": ["Old Spice", "Palmolive", "Ponds", "Gillete", "Denim"]
+    },
+    {
+      "group" : "Shampoo",
+      "swadeshi": ["Himalaya", "Nirma", "Velvette"],
+      "others": ["Clinic all clear", "Sunsilk", "Head and Shoulders", "Pantene"]
+    },
+    {
+      "group" : "Talcum Powder",
+      "swadeshi": ["Santoor", "Gokul", "Cinthol", "Boroplus", "Cavin Kare Products"],
+      "others": ["Ponds", "Old spice", "Johnson", "Shower"]
+    },
+    {
+      "group" : "Cold Drinks",
+      "swadeshi": ["Kalimark Bovonto", "Rose Drink(Sherbat)", "Badam Drink", "Milk", "Lassi", "Curd", "yoghurt", "Chaach", "Juice", "Lemonade(Nimbu Paani)", "Coconut Water(Naariyal Paani)", "Shakes", "Jaljeera", "Thandai", "Roohafza (Hamdard)", "Rasna", "Frooti", "Godrej Jumpin"],
+      "others": ["Coca Cola", "Coke", "Fanta", "Sprite", "Thumbsup", "Limca", "Goldpat", "Pepsi", "Lehar", "7up", "Mirinda", "Slice"]
+    },
+    {
+      "group" : "Milk",
+      "swadeshi": ["Amul", "Amulya", "Mother Dairy"],
+      "others": ["Anikspray", "Milkana", "Everyday milk", "Milkmaid"]
+    },
+    {
+      "group" : "Mobile Networks",
+      "swadeshi": ["Jio" ,"Airtel", "Reliance", "Bsnl"],
+      "others": ["Vodafone"]
+    },
+    {
+      "group" : "Apparels",
+      "swadeshi": ["Peter England", "Louis Philippe", "Van Heusen","Allen Solly", "Monte Carlo", "Raymond", "SiyaRam", "Bombay Dyeing", "S. Kumars", "Mafatlal", "Garden Vareli", "American Swan", "Gini & Jony", "Globus", "Madame", "Monte Carlo Fashions Limited", "Reliance Retail", "RmKV", "Spykar", "K-lounge", "Cambridge", "Park Avenue", "Bombay Dyeing", "Ruf & Tuf", "Trigger Jeans", "Rays", "Manyawar"],
+      "others": ["Wrangler", "Nike", "Duke", "Adidas", "Newport", "Puma", "Reebok", "Lee", "Levi’s", "U.S. Polo", "Pepe", "Benetton"]
+    },
+    {
+      "group" : "Footwear",
+      "swadeshi": ["Paragon", "Lakhani ", "Chavda", "Khadims", "VKC Pride", "Lunar Footwear"],
+      "others": ["Nike", "Reebok", "Adidas", "Converse"]
+    },
+    {
+      "group" : "Watches",
+      "swadeshi": ["Titan", "HMT", "Maxima", "Prestige", "Ajanta", "Fasttrack"],
+      "others": ["MontBlanc", "Mocado", "Piaget", "Rado", "Swarovski", "TagHeuer", "Ulysse Nardin", "Vertu", "Swatch", "Rolex", "Swissco", "Seeko", "Dior", "FranckMuller", "Gizard-Perregaux", "Hublot"]
+    },
+    {
+      "group" : "Salt",
+      "swadeshi": ["Tata", "Ankur", "Saindha namak(Patanjali)", "Low Sodium & Iron-45 Ankur", "Tata", "Surya", "Tara"],
+      "others": ["Annapurna", "Captain Cook", "Kisan", "Pilsbury"]
+    },
+    {
+      "group" : "Icecream",
+      "swadeshi": ["Amul", "Vadilal", "Arun Ice Cream"],
+      "others": ["Cadbury", "Dolps", "Baskin & Robins", "Kwality Walls"]
+    },
+    {
+      "group" : "Biscuits",
+      "swadeshi": ["Parle", "Sunfeast", "Britannia", "Tiger", "Indana", "Amul", "Ravalgaon", "Bakemens", "Creamica", "Shagrila", "Patanjali"],
+      "others": ["Cadbury",  "Lipton", "Horlicks", "Nutrine", "Eclairs"]
+    },
+    {
+      "group" : "Ketchups/Jams",
+      "swadeshi": ["Indana", "Priya", "Rasna", "Patanjali"],
+      "others": ["Nestle", "Kisaan", "Brown and Palson"]
+    },
+    {
+      "group" : "Snacks",
+      "swadeshi": ["Bikano Namkeen", "Haldiram", "Homemade chips", "Bikaji", "AOne"],
+      "others": ["Uncle chips", "Lay's", "Kurkure", "Doritos"]
+    },
+    {
+      "group" : "Water",
+      "swadeshi": ["Ganga", "Himalaya", "Rail neer", "Bisleri"],
+      "others": ["Aquafina", "Kinley", "Beiley", "Pure life", "Ivian"]
+    },
+    {
+      "group" : "Oil",
+      "swadeshi": ["Param Ghee", "Amul", "Patanjali", "Bail Kolhu", "Fortune"],
+      "others": ["Nestle", "Hindustan Uniliver"]
+    },
+    {
+      "group" : "Cleaning",
+      "swadeshi": ["Tata Shudh", "Nima", "Care", "Sahara", "Swastik", "Vimal", "Hipolin", "Fena", "Sasa", "Dr. Det", "Ghadi", "Genteel", "Ujala", "Ranipal", "Nirma", "Chamko", "Dip"],
+      "others": ["Arial", "Check", "Henko", "Quantum", "Amway", "Rivil", "Woolwash", "Robin Blue", "Tinapal", "Skylark", "Surf", "Rin", "Sunlight", "Wheel", "Okay", "Vim"]
+    },
+    {
+      "group" : "Cosmetics",
+      "swadeshi": ["Neem", "Borosil", "Ayur Emami", "Vico", "Boroplus", "Boroline", "Himani Gold", "Nyle", "Lavender", "Hair & Care", "Heavens", "Cinthol", "Glory", "Velvet(Baby)"],
+      "others": ["Ponds", "Old Spice", "Dettol", "Johnson Baby", "Fair & Lovely", "Lakme", "Liril", "Denim", "Revelon", "Clearsil", "Cleartone"]
+    },
+    {
+      "group" : "Pen",
+      "swadeshi": ["Camel", "Kingson", "Sharp", "Cello", "Natraj", "Ambassador", "Linc", "Montex", "Steek", "Sangita", "Luxor"],
+      "others": ["Parker", "Nickleson", "Rotomac", "Swissair", "Add Gel", "Ryder", "Flair", "Uniball", "Pilot", "Rolgold"]
+    }
+  ]
+}
