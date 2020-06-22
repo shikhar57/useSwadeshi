@@ -2,12 +2,12 @@
   "rawData": [
     {
       "group" : "Soap",
-      "swadeshi": ["Himalaya", "Mysoor Sandal", "Cinthol", "Santoor", "Medimix", "Neem", "Godrej", "Patanjali(Kesh Kanti)", "Wipro", "Park Avenue", "Swatik", "Ayur Herbal", "Kesh Nikhar", "Hair & Care", "Dabur Vatika", "Bajaj", "Nyle"],
+      "swadeshi": ["Himalaya", "Mysoor Sandal", "Cinthol", "Santoor", "Medimix", "Neem", "Godrej", "Patanjali", "Wipro", "Park Avenue", "Swatik", "Ayur Herbal", "Kesh Nikhar", "Hair & Care", "Dabur Vatika", "Bajaj", "Nyle"],
       "others": ["Palmolive", "HUL", "Ponds", "Old Spice", "Shower to Shower", "Head & Shoulders", "Johnson Baby", "Vivel ", "Proctar & Gamble"]
     },
     {
       "group" : "Toothpaste",
-      "swadeshi": ["Neem", "babool", "vicco", "dabur", "Vico Bajradanti", "MDH", "Baidyanath", "Gurukul Pharmacy", "Choice", "Anchor", "Meswak", "Babool", "Promise", "Patanjali"],
+      "swadeshi": ["Neem", "Babool", "Dabur", "Vico Bajradanti", "MDH", "Baidyanath", "Gurukul Pharmacy", "Choice", "Anchor", "Meswak", "Babool", "Promise", "Patanjali"],
       "others": ["Closeup", "Pepsodent", "Cibaca", "Colgate", "Aquafresh", "Amway", "Quantum", "Oral-B", "Forhans"]
     },
     {
